@@ -5,7 +5,7 @@ base_url = "https://api.agify.io"
 
 # 2. We create a dictionary of our specific instructions
 my_instructions = {
-    "name": "michael"  # We are asking the API to check the name 'michael'
+    "name": "mziray"  # We are asking the API to check the name 'michael'
 }
 
 # 3. We pass our dictionary into the 'params' argument
